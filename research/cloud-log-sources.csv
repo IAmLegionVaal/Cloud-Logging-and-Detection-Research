@@ -1,0 +1,4 @@
+Platform,LogSource,Category,Enabled,Centralized,Normalized,RetentionDays,Owner,DetectionUseCases,Notes
+Microsoft Entra ID,Sign-in Logs,Identity,Yes,Yes,Yes,30,Identity Team,"Authentication monitoring; risky sign-in review",Example row
+Microsoft 365,Unified Audit Log,Administrative,Yes,Yes,Yes,90,Security Operations,"Administrative activity; mailbox and file activity",Example row
+Cloud Firewall,Network Flow Logs,Network,No,No,No,0,Network Team,"Connection analysis; exposure review",Example gap
